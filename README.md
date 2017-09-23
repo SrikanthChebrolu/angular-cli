@@ -13,6 +13,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 	6. 	`protractor end-to-end test frameowork` is configured.
 	7. 	Environment files with defaults are created.
 
+						or 
+	
+	`ng new projectname --skip-install` skip installing dependencies 
+
+						or 
+
+	`ng new projectname --dry-run` or `ng new projectname -d` just to see the project tree structure doesnot create any files 
+
+	option : 
+		1. --directory and --source-dir
+		2. --prefix and --style 
+		3. --inline-template and --inline-style
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
